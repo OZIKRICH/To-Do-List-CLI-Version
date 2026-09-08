@@ -1,0 +1,29 @@
+{
+  "name": "typescriptproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OZIKRICH/TypeScriptProject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/OZIKRICH/TypeScriptProject/issues"
+  },
+  "homepage": "https://github.com/OZIKRICH/TypeScriptProject#readme",
+  "devDependencies": {
+    "@types/node": "^26.4.1",
+    "@types/readline-sync": "^1.4.8",
+    "typescript": "^7.0.2"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
